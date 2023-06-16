@@ -3,3 +3,4 @@ rglocation="West US"
 pipname="dev-pip"
 allocation_method="dynamic"
 timeout=30  
+tags= { env="dev"}
