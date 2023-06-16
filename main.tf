@@ -8,5 +8,5 @@ resource "azurerm_public_ip" "pip" {
   resource_group_name     = azurerm_resource_group.rg.name
   allocation_method       = var.allocation_method
   idle_timeout_in_minutes = var.timeout
-
+  tags=var.tags
 }
