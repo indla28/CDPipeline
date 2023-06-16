@@ -1,5 +1,5 @@
 rgname="prod-rg"
-rglocation="UK London"
+rglocation="East US 2"
 pipname="prod-pip"
 allocation_method="Dynamic"
 timeout=30  
