@@ -19,7 +19,7 @@ variable "timeout" {
   description = "idle time for Timeout"
 }
 variable "tags" {
-    type=list(string)
+    type=map(string)
     description = "environment details-dev/qa/prod"
   
 }
