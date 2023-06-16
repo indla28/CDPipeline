@@ -1,5 +1,5 @@
 rgname="qa-rg"
 rglocation="East US"
 pipname="qa-pip"
-allocation_method="dynamic"
+allocation_method="Dynamic"
 timeout=30  
